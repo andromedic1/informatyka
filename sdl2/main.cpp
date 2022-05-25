@@ -1,6 +1,7 @@
 #include <sstream>
 #include <SDL.h>
 
+//komentarz git nowy branch
 int main(int argc, char ** argv)
 {
     // variables
